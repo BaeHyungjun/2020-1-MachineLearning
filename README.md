@@ -12,4 +12,4 @@ repository to submit assignment of machine learning class
 
 5. Neural network classification model using MNIST data
 
-6. Implement of neural network with simple natural language processing
+6. Positive, negative neural network classification model with simple natural language processing using movie review data
